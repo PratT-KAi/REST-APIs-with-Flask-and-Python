@@ -1,5 +1,6 @@
 # Rest APIs with Flask and Python
-A course from udemy
+
+A course from Udemy- A beginner friedly course.
 
 
 
